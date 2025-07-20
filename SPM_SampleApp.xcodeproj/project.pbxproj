@@ -27,6 +27,7 @@
 		D83CBA6B2E2D05D700B63E89 /* SPM_SampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPM_SampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D83CBA782E2D05D800B63E89 /* SPM_SampleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPM_SampleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D83CBA822E2D05D800B63E89 /* SPM_SampleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPM_SampleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D83CBA982E2D10B800B63E89 /* SPM_SamplePackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = SPM_SamplePackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		D83CBA622E2D05D700B63E89 = {
 			isa = PBXGroup;
 			children = (
+				D83CBA982E2D10B800B63E89 /* SPM_SamplePackage */,
 				D83CBA6D2E2D05D700B63E89 /* SPM_SampleApp */,
 				D83CBA7B2E2D05D800B63E89 /* SPM_SampleAppTests */,
 				D83CBA852E2D05D800B63E89 /* SPM_SampleAppUITests */,
